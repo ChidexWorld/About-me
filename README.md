@@ -1,5 +1,5 @@
-I am a full-stack developer and a current student of Computer Science with two years of experience in tech. I specialize in building scalable and efficient solutions for complex technical challenges.
+I am a passionate Full-Stack Software Engineer and a Computer Science student with over 3 years of experience in tech. I specialize in developing intelligent, scalable, and efficient solutions that solve real-world problems.
 
-I am proficient in the JavaScript programming language and TypeScript, and I enjoy using the React framework for its modular structure, which simplifies maintenance and provides flexibility. I also have expertise in EJS, Express.js, and SQL for backend and database management, enabling me to deliver complete and robust applications.
+I have strong expertise in JavaScript, TypeScript, and Python, with experience using React, Express.js, EJS, FastAPI, and SQL to build full-stack applications. My growing interest in Artificial Intelligence (AI) and Machine Learning (ML) drives me to create innovative systems that combine data-driven intelligence with modern web technologies.
 
-In my spare time, I enjoy playing table tennis and the trumpet.
+Outside of coding, I enjoy playing table tennis and the trumpet.
